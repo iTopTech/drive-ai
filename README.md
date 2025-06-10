@@ -66,8 +66,3 @@ This product was developed by Pyxel AI Team
 
 Drive-AI v0.1-alpha
 
-### Team Members
-
-* Akshay Kumaar M
-* Sanjay Krishnaan H
-* Nikhil Xavier John
